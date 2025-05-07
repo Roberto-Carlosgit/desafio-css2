@@ -9,5 +9,8 @@
 <br>
 <br>
 <h5 align="center">Feito com Responsividade: :outbox_tray: :outbox_tray: :outbox_tray:</h5>
-<img src=""
+<img src="https://github.com/Roberto-Carlosgit/desafio-css2/blob/master/img/Captura%20de%20tela%202025-04-19%20192146.png?raw=true" alt="img-pc" width=400px;>
+<br>:computer:
+<br>
+<br> :iphone:
 <img src="https://github.com/Roberto-Carlosgit/desafio-css2/blob/master/img/Captura%20de%20tela%202025-05-01%20191201.png?raw=true" alt="img-rsponsividade" width=400px;>
